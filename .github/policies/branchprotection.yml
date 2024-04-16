@@ -1,0 +1,14 @@
+name: ppvm_required
+description: minimum required branch protection policy
+resource: repository
+where:
+configuration:
+  branchProtectionRules:
+    - branchNamePattern: "~default~"
+      requiresPullRequestBeforeMerging: true
+      requiredApprovingReviewsCount: 0
+      isAdminEnforced: true
+      allowsForcePushes: false
+      allowsDeletions: false
+      requiresLinearHistory: true
+      requireCodeOwnersReview: true

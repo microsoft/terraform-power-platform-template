@@ -1,43 +1,3 @@
-<!-- BEGIN_TF_DOCS -->
-# terraform-power-platform-MODULENAME
-
-A module to deploy Power Platform resources.
-
-> [!WARNING]
-> Major version Zero (0.y.z) is for initial development. Anything MAY change at any time. A module SHOULD NOT be considered stable till at least it is major version one (1.0.0) or greater. Changes will always be via new versions being published and no changes will be made to existing published versions. For more details please go to <https://semver.org/>
-
-<!-- markdownlint-disable MD033 -->
-## Requirements
-
-The following requirements are needed by this module:
-
-- <a name="requirement_powerplatform"></a> [powerplatform](#requirement\_powerplatform) (~> 2.0.0)
-
-## Providers
-
-No providers.
-
-## Resources
-
-No resources.
-
-<!-- markdownlint-disable MD013 -->
-## Required Inputs
-
-No required inputs.
-
-## Optional Inputs
-
-No optional inputs.
-
-## Outputs
-
-No outputs.
-
-## Modules
-
-No modules.
-
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
@@ -54,9 +14,8 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ## Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
-trademarks or logos is subject to and must follow
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
+trademarks or logos is subject to and must follow 
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
-<!-- END_TF_DOCS -->

@@ -1,0 +1,4 @@
+# CODEOWNERS file for the repository
+
+# Primary code owner for the repository
+* @microsoft/power-platform-terraform-maintainers
